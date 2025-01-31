@@ -22,3 +22,11 @@ function testAdd() {
 function testSubtact() {
   console.log(subtract(2, 1) === 1);
 }
+
+function testMultiply() {
+  console.log(multiply(2, 3) === 6);
+}
+
+function testDiv() {
+  console.log(div(6, 3) === 2);
+}
