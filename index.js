@@ -24,9 +24,9 @@ function testSubtact() {
 }
 
 function testMultiply() {
-  console.log(multiply(3, 3) === 9);
+  console.log(multiply(4, 3) === 12);
 }
 
 function testDiv() {
-  console.log(div(6, 2) === 3);
+  console.log(div(10 , 2) === 5);
 }
