@@ -16,7 +16,7 @@ function div(a, b) {
 
 
 function testAdd() {
-  console.log(add(1, 1) === 2);
+  console.log(add(2, 2) === 4);
 }
 
 function testSubtact() {
