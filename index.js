@@ -15,6 +15,11 @@ function div(a, b) {
 }
 
 
+function dou(a) {
+  return a * a;
+}
+
+
 function testAdd() {
   console.log(add(1, 1) === 2);
 }
@@ -30,3 +35,4 @@ function testMultiply() {
 function testDiv() {
   console.log(div(6, 2) === 3);
 }
+
