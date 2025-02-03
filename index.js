@@ -14,6 +14,10 @@ function div(a, b) {
   return a / b;
 }
 
+function squ(a) {
+  return a * a;
+}
+
 
 function testAdd() {
   console.log(add(2, 2) === 4);
@@ -29,4 +33,8 @@ function testMultiply() {
 
 function testDiv() {
   console.log(div(10 , 2) === 5);
+}
+
+function testSqu() {
+  console.log(squ(5) === 25);
 }
