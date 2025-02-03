@@ -30,3 +30,6 @@ function testMultiply() {
 function testDiv() {
   console.log(div(10 , 2) === 5);
 }
+
+
+9s1k2k
